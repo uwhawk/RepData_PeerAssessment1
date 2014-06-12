@@ -1,3 +1,8 @@
+Reproducible Research
+Submission: Jeff Roberts
+
+Github path: https://github.com/uwhawk/RepData_PeerAssessment1.git
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
